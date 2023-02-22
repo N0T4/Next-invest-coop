@@ -1,1 +1,1 @@
-# Next-invest-coop
+# Practices in working together thought GitHub
